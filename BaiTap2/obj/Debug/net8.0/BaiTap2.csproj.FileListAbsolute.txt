@@ -1,0 +1,15 @@
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\obj\Debug\net8.0\BaiTap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\obj\Debug\net8.0\BaiTap2.AssemblyInfoInputs.cache
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\obj\Debug\net8.0\BaiTap2.AssemblyInfo.cs
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\obj\Debug\net8.0\BaiTap2.csproj.CoreCompileInputs.cache
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\obj\Debug\net8.0\BaiTap2.sourcelink.json
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\bin\Debug\net8.0\BaiTap2.exe
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\bin\Debug\net8.0\BaiTap2.deps.json
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\bin\Debug\net8.0\BaiTap2.runtimeconfig.json
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\bin\Debug\net8.0\BaiTap2.dll
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\bin\Debug\net8.0\BaiTap2.pdb
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\obj\Debug\net8.0\BaiTap2.dll
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\obj\Debug\net8.0\refint\BaiTap2.dll
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\obj\Debug\net8.0\BaiTap2.pdb
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\obj\Debug\net8.0\BaiTap2.genruntimeconfig.cache
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\BaiTap2\obj\Debug\net8.0\ref\BaiTap2.dll
