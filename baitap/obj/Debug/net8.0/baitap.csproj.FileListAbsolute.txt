@@ -1,0 +1,15 @@
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\obj\Debug\net8.0\baitap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\obj\Debug\net8.0\baitap.AssemblyInfoInputs.cache
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\obj\Debug\net8.0\baitap.AssemblyInfo.cs
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\obj\Debug\net8.0\baitap.csproj.CoreCompileInputs.cache
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\obj\Debug\net8.0\baitap.sourcelink.json
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\bin\Debug\net8.0\baitap.exe
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\bin\Debug\net8.0\baitap.deps.json
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\bin\Debug\net8.0\baitap.runtimeconfig.json
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\bin\Debug\net8.0\baitap.dll
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\bin\Debug\net8.0\baitap.pdb
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\obj\Debug\net8.0\baitap.dll
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\obj\Debug\net8.0\refint\baitap.dll
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\obj\Debug\net8.0\baitap.pdb
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\obj\Debug\net8.0\baitap.genruntimeconfig.cache
+C:\Users\tranv\OneDrive\Desktop\Cyper_sharp\TranVanAn\baitap\obj\Debug\net8.0\ref\baitap.dll
